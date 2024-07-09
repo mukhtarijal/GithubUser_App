@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repository">repository</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="organization">Organization</string>
+    <string name="search">Search</string>
+    <string name="username">username</string>
+    <string name="favorite">Favorite Button</string>
+    <string name="_0">0</string>
+    <string name="favorit">Favorit</string>
+    <string name="mode">Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="logo">GithubLogo</string>
+    <string name="splash_text">Github User</string>
+    <string name="share">SHARE</string>
+</resources>
